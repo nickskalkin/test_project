@@ -1,5 +1,5 @@
 def meth
-  puts 'My method'
+  puts 'My nethod'
 end
 
 
